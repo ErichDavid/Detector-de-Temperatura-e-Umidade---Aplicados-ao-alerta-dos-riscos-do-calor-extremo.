@@ -29,6 +29,9 @@ Usaremos um detector de temperatura GY-BM280 e um Detector de umidade AHT10.
       <p align="center">
       <strong>ITU = T<sub>bs</sub> + 0,36 × T<sub>po</sub> + 41,2</strong>
       </p>
+      <p>
+      Onde <strong>T<sub>bs</sub></strong> é a temperatura de bulbo seco e <strong>T<sub>po</sub></strong> é temperatura de ponto de orvalho.
+      </p>
       
       
       
